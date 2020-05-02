@@ -1,4 +1,9 @@
 Hello!12345
 Good Bye!
+<<<<<<< HEAD
 another lone from user1
 line from user1
+=======
+Ok
+line from user2
+>>>>>>> b4bd71dd7a0f88cf04380059d7ed23be054e0f8c
